@@ -1,0 +1,18 @@
+#root, html, body {
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    background-color: #d6b0e8;
+    
+    /* background by SVGBackgrounds.com */
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
